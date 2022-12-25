@@ -1,4 +1,4 @@
-public class Q_40 {
+public class Q40 {
     public static void main(String[] args) {
 
         /*Q-40)

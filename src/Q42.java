@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class Q_42 {
+public class Q42 {
     public static void main(String[] args) {
 
         /*Q_42-)

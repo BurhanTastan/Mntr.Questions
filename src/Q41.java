@@ -1,10 +1,7 @@
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 
-
-public class Q_41 {
+public class Q41 {
     public static void main(String[] args) {
 
         /*Parametre olarak 2 Int Array kabul eden ve 2 Array listesini

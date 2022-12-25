@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Q_39 {
+public class Q39 {
     public static void main(String[] args) {
 
         /*Q-39)
