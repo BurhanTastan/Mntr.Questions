@@ -15,14 +15,20 @@ public class Q43 {
     name="porsche";
     }
 
+
     public Q43(String farbe, String name, int model){
         this.farbe =farbe;
         this.name=name;
         this.model=model;
     }
 
-    public String toString(){
-       return "name: "+name + " farbe: " + farbe + " model: "+ model+ "\n";
+    @Override
+    public String toString() {
+        return "Q43{" +
+                "farbe='" + farbe + '\'' +
+                ", name='" + name + '\'' +
+                ", model=" + model +
+                '}';
     }
 
     public static void main(String[] args) {
